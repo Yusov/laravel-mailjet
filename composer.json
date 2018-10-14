@@ -23,8 +23,8 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "laravel/framework": "~5.7",
+        "php": ">=7.1.*",
+        "laravel/framework": "5.7.*",
         "laravel/tinker": "~1.0",
         "mailjet/mailjet-apiv3-php": "^1.2",
         "swiftmailer/swiftmailer": "~6.0"
